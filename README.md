@@ -1,21 +1,16 @@
-<div align="center">
-  <h1>Hi there, I'm Muhammad Zabran Assyafiq 👋</h1>
-  <p><strong> Web Developer & UI/UX Designer based in Jakarta, Indonesia 🇮🇩</strong></p>
+# Hi there, I'm Zabran! 👋
 
-  <p>
-    <a href="www.linkedin.com/in/m-zabran-assyafiq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:muhammadzabranidn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  </p>
-</div>
+> **Front-End Developer & UI/UX Enthusiast** based in Jakarta, Indonesia.  
+> Crafting clean, responsive, and aesthetic web & mobile experiences.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Vocational High School Student at **IDN Boarding School**
-- 💻 **Core Focus:** Bridging clean code with modern visual design (Front-End & UI/UX)
-- ⚡ **Currently Exploring:** Mobile Development with **Flutter**, modern web architectures, and interactive digital interfaces
-- 🎯 **Hobbies & Passions:** UI/UX Design, Photography, Videography, and Digital Art
+- 🏫 **Student:** Vocational High School Student majoring in **Software Engineering**.
+- 💻 **Role:** Junior Web Developer & Front-End Specialist.
+- 🎨 **Passions:** Web design, mobile app development, photography, videography, and visual storytelling.
+- 🎯 **Current Focus:** Building scalable web applications using modern JavaScript frameworks and exploring cross-platform mobile development.
 
 ---
 
@@ -39,15 +34,23 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzabranidn-hue&show_icons=true&theme=tokyonight&hide_border=true" alt="Zabran's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzabranidn-hue&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Zabran's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-<div align="center">
-  <p><i>"Design and code aren't just about how things look, but how they feel and work."</i></p>
-</div>
+### 📬 Connect with Me
+
+- 🌐 **Portfolio:** zabran.netlify.app
+- 💼 **LinkedIn:** www.linkedin.com/in/m-zabran-assyafiq
+- ✉️ **Email:** muhammadzabranidn@gmail.com
+
+---
+
+<p align="center">
+  <i>"Code with purpose, design with passion."</i>
+</p>
