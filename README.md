@@ -45,9 +45,9 @@
 
 ### 📬 Connect with Me
 
-- 🌐 **Portfolio:** zabran.netlify.app
-- 💼 **LinkedIn:** www.linkedin.com/in/m-zabran-assyafiq
-- ✉️ **Email:** muhammadzabranidn@gmail.com
+- 🌐 [Zabran's Portfolio](https://zabran.netlify.app)
+- 💼 [Connect LinkedIn](www.linkedin.com/in/m-zabran-assyafiq)
+- ✉️ [Collab With Me](muhammadzabranidn@gmail.com)
 
 ---
 
