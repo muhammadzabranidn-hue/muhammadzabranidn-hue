@@ -34,11 +34,24 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzabranidn-hue&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=muhammadzabranidn-hue&theme=transparent&hide_border=true" />
+</p>
+
+---
+
 ### 📬 Connect with Me
 
 - 🌐 [Zabran's Portfolio](https://zabran.netlify.app)
-- 💼 [Connect LinkedIn](www.linkedin.com/in/m-zabran-assyafiq)
-- ✉️ [Collab With Me](muhammadzabranidn@gmail.com)
+- 💼 [Connect LinkedIn](https://www.linkedin.com/in/m-zabran-assyafiq)
+- ✉️ [Collab With Me](mailto:muhammadzabranidn@gmail.com)
 
 ---
 
