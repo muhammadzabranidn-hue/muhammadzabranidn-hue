@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <i>"Code with purpose, design with passion."</i>
+  <i>"Design and code aren't just about how something looks, but how it feels and works."</i>
 </p>
