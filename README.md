@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zabran&show_icons=true&theme=tokyonight&hide_border=true" alt="Zabran's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 - 🌐 [Zabran's Portfolio](https://zabran.netlify.app)
