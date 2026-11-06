@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=muhammadzabranidn-hue&theme=transparent&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=muhammadzabranidn-hue&theme=dark&hide_border=true" />
 </p>
 
 ---
