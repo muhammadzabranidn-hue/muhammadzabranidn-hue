@@ -36,10 +36,10 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzabranidn-hue&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzabranidn-hue&theme=dark" alt="GitHub Stats" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadzabranidn-hue&theme=dark" alt="Top Languages" height="160">
+</div>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=muhammadzabranidn-hue&theme=dark&hide_border=true" />
