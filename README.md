@@ -36,14 +36,19 @@
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzabranidn-hue&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Zabran's GitHub Stats" width="49%" />
+</p>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzabranidn-hue&theme=dark" alt="GitHub Stats" height="160">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadzabranidn-hue&theme=dark" alt="Top Languages" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadzabranidn-hue&theme=codeSTACKr" alt="GitHub Stats" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadzabranidn-hue&theme=codeSTACKr" alt="Top Languages" height="160">
 </div>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=muhammadzabranidn-hue&theme=dark&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=muhammadzabranidn-hue&theme=codeSTACKr&hide_border=true" /
 </p>
+
 
 ---
 
